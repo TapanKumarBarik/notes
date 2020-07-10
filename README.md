@@ -4,7 +4,7 @@
 
 
 
-1.1- Craete React App
+ 1.1- Craete React App
 1.2-Functional components
 1.3-Class Components
 1.4-JSX
